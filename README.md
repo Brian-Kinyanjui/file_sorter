@@ -17,6 +17,6 @@ For the safer version:
 This script MOVES files. Test on a dummy folder or a copy first.
 ## What I learned
 - How to use pathlib and shutil to work with files
-- Why testing matters: [write the real problem you found]
+- Why testing matters
 ## Video
 https://www.youtube.com/@broxie00
