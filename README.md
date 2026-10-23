@@ -19,5 +19,4 @@ This script MOVES files. Test on a dummy folder or a copy first.
 - How to use pathlib and shutil to work with files
 - Why testing matters: [write the real problem you found]
 ## Video
-[paste your YouTube link]
-To upload without Git: on github.com click +, New repository, name it file-sorter, make it Public, tic
+https://www.youtube.com/@broxie00
